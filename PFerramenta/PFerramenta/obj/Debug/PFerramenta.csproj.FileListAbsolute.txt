@@ -1,0 +1,13 @@
+E:\Fatec\S2 - LP2\PFerramenta\PFerramenta\bin\Debug\PFerramenta.exe.config
+E:\Fatec\S2 - LP2\PFerramenta\PFerramenta\bin\Debug\PFerramenta.exe
+E:\Fatec\S2 - LP2\PFerramenta\PFerramenta\bin\Debug\PFerramenta.pdb
+E:\Fatec\S2 - LP2\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csproj.AssemblyReference.cache
+E:\Fatec\S2 - LP2\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csproj.SuggestedBindingRedirects.cache
+E:\Fatec\S2 - LP2\PFerramenta\PFerramenta\obj\Debug\PFerramenta.AboutBox.resources
+E:\Fatec\S2 - LP2\PFerramenta\PFerramenta\obj\Debug\PFerramenta.MainForm.resources
+E:\Fatec\S2 - LP2\PFerramenta\PFerramenta\obj\Debug\PFerramenta.frmFerramenta.resources
+E:\Fatec\S2 - LP2\PFerramenta\PFerramenta\obj\Debug\PFerramenta.Properties.Resources.resources
+E:\Fatec\S2 - LP2\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csproj.GenerateResource.cache
+E:\Fatec\S2 - LP2\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csproj.CoreCompileInputs.cache
+E:\Fatec\S2 - LP2\PFerramenta\PFerramenta\obj\Debug\PFerramenta.exe
+E:\Fatec\S2 - LP2\PFerramenta\PFerramenta\obj\Debug\PFerramenta.pdb
